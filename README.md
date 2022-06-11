@@ -1,5 +1,7 @@
 <center>
   
+  
+  
  
   # **Hello, Unknowner**
   
@@ -20,6 +22,12 @@
  - **Currently Focusing on learning Front-End**
     
  - **High School Student**
+   
+  <center>
+   
+ <a href="https://github.com/octlo/octlo/blob/main/1%2527b0ra%7B9%7D.gif">
+    <img align="center" width="420" height="400" src="1%2527b0ra%7B9%7D.gif">
+         </a>
     
-    
+    Let's All Love Lain!
     
