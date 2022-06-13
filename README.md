@@ -1,7 +1,6 @@
 <center>
   
- 
-  # **Hello, Unknowner**
+# **Hello, Unknowner**
   
   
   <a href="https://github.com/octlo/octlo/blob/main/01010111%2001101001%2001110010%2001100101%2001100100.gif">        <!-- Gif Things -->
@@ -35,4 +34,4 @@
     <img aligh="left" width="40%" src="1%2527b0ra%7B9%7D.gif" hspace="20">
     </a>
     
-    Let's All Love Lain!
+                                                      Let's All Love Lain!
