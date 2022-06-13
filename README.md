@@ -1,6 +1,6 @@
 <center>
   
-# **Hello, Unknowner**
+# **Hello, Knighter**
   
   
   <a href="https://github.com/octlo/octlo/blob/main/01010111%2001101001%2001110010%2001100101%2001100100.gif">        <!-- Gif Things -->
@@ -22,10 +22,11 @@
  - **High School Student**
    
   <center>
+    <!-- Wakatime Status -->
     <div style="display:inline-block;">
 <a href="https://github.com/octlo">
 <img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=octlo&exclude_repo=dwm&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
-
+         
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octlo&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
 </a>  
 </div>
@@ -34,4 +35,4 @@
     <img aligh="left" width="40%" src="1%2527b0ra%7B9%7D.gif" hspace="20">
     </a>
     
-                                                      Let's All Love Lain!
+                                                   Let's All Love Lain!
