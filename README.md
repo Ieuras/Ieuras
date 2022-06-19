@@ -35,8 +35,8 @@
 </div>
 
     
- <a href="https://github.com/octlo/octlo/blob/main/1%2527b0ra%7B9%7D.gif">
-    <img aligh="left" width="40%" src="1%2527b0ra%7B9%7D.gif" hspace="20">
+ <a href="https://github.com/octlo/octlo/blob/main/LainLaugh.gif">
+    <img aligh="left" width="40%" src="LainLaugh.gif" hspace="20">
     </a>
     
                                                    Let's All Love Lain!
