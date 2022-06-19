@@ -20,19 +20,15 @@
  - **Currently Focusing on learning Front-End**
     
  - **High School Student**
-   
-  <center>
-     <!-- Git Status -->
-      <center>
-    <!-- Wakatime Status -->
-    
-    <div style="display:inline-block;">
-<a href="https://github.com/octlo">
-<img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=octlo&exclude_repo=dwm&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octlo&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
-</a>  
-</div>
+  <center>
+    <div style="display:inline-block;">
+    <a href="https://github.com/octlo">
+    <img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=octlo&exclude_repo=dwm&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octlo&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB">
+    </a>  
+    </div>
+
 
     
  <a href="https://github.com/octlo/octlo/blob/main/LainLaugh.gif">
