@@ -12,24 +12,12 @@
     
     
  ## ~ **About Me** ~
-     
- - **Made In Brazil**
  
- - **Enthusiast of Technologies**
- 
- - **Currently Focusing on learning Front-End**
+ - **Interested to learn some programmation stuffs**
     
  - **High School Student**
 
   <center>
-    <div style="display:inline-block;">
-    <a href="https://github.com/octlo">
-      <img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=octlo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </a>  
-</div>
-
-
-    
  <a href="https://github.com/octlo/octlo/blob/main/LainLaugh.gif">
     <img aligh="left" width="40%" src="LainLaugh.gif" hspace="20">
     </a>
