@@ -20,4 +20,4 @@
     <img aligh="left" width="40%" src="LainLaugh.gif" hspace="20">
     </a>
     
-                                                   Let's All Love Lain!
+                                                                Let's All Love Lain!                                                                
