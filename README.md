@@ -1,23 +1,23 @@
 <center>
-  
-# **Hello, Knighter**
-  
-  
 
-  
-  
+# **Hello, Knighter**
+
+</center>
+
   <center>
-    
-    
+  
  ## ~ **About Me** ~
  
  - **Interested to learn some programmation stuffs**
     
  - **High School Student**
-
+  </center>
+  
   <center>
- <a href="https://github.com/octlo/octlo/blob/main/LainLaugh.gif">
+  <a href="https://github.com/octlo/octlo/blob/main/LainLaugh.gif">
     <img aligh="left" width="40%" src="LainLaugh.gif" hspace="20">
     </a>
-    
-                                                                Let's All Love Lain!                                                                
+    <br>
+    <br>
+    <br>
+<center>Let's All Love Lain!</center>
