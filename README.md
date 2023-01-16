@@ -7,4 +7,5 @@ Despite spending a lot of time studying, I appear from time to time in Discord. 
 Now I'm
   
   - Working on my Skills in Front and Backend develop.
+  - Studying Too lol, I'm a High School Student
 
