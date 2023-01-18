@@ -1,4 +1,4 @@
-![Banner](https://github.com/ieuras/ieuras/blob/main/img/banner.png?raw=true)
+![Banner](https://github.com/ieuras/ieuras/blob/main/img/--banner.png?raw=true)
 
 My interests are focused on computing. I like to build, study, programme.
 
