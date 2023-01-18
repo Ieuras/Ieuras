@@ -1,14 +1,15 @@
 ![Banner](https://github.com/ieuras/ieuras/blob/main/img/--banner.png?raw=true)
+<hr>
+My interests are focused on computing. I like to study, programme and some other stuffs.
 
-My interests are focused on computing. I like to build, study, programme.
+Languages that I have coded before,
 
-Languages I have knowledge,
+⚝ - **JavaScript**<br>
+⚝ - **HTML/CSS**<br>
+⚝ - **Python**<br>
+⚝ - **C#**<br>
+⚝ - **Java**<br>
 
-- **Java**
-- **JavaScript**
-- **C#**
-- **Python**
-- **HTML/CSS**
 
 most of the time I use studying programation and various things about computers in general.
 In my free time I usually play something or watch.
@@ -18,5 +19,4 @@ But I keep myself updated every day in my email inbox and alot other places.
 Now I'm
   
   - Working on my Skills in Front and Backend develop.
-  - Studying Too lol, I'm a High School Student
-
+  - Studying Too. LOL, I'm a High School Student.
