@@ -1,5 +1,5 @@
-![Banner](https://github.com/ieuras/ieuras/blob/main/img/--banner.png?raw=true)
-<hr>
+![Banner](https://github.com/ieuras/ieuras/blob/main/img/banner.png?raw=true)
+
 My interests are focused on computing. I like to study, programme and some other stuffs.
 
 Languages that I have coded before,
