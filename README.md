@@ -4,11 +4,11 @@ My interests are focused on computing. I like to study, programme and some other
 
 Languages that I have coded before,
 
-⚝ - **JavaScript**<br>
-⚝ - **HTML/CSS**<br>
-⚝ - **Python**<br>
-⚝ - **C#**<br>
-⚝ - **Java**<br>
+↳ **JavaScript**<br>
+↳ **HTML/CSS**<br>
+↳ **Python**<br>
+↳ **C#**<br>
+↳ **Java**<br>
 
 
 most of the time I use studying programation and various things about computers in general.
